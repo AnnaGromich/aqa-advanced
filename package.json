@@ -1,0 +1,23 @@
+{
+  "name": "aqa-advanced",
+  "version": "1.0.0",
+  "description": "lesson 3 homework",
+  "homepage": "https://github.com/AnnaGromich/aqa-advanced#readme",
+  "bugs": {
+    "url": "https://github.com/AnnaGromich/aqa-advanced/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaGromich/aqa-advanced.git"
+  },
+  "license": "ISC",
+  "author": "AnnaG",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^6.0.1"
+  }
+}
