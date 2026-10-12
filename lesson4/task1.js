@@ -1,0 +1,10 @@
+let name = "Anna";
+let age = 95;
+let isStudent = false;
+let car = null;
+let address;
+console.log(name);
+console.log(age);
+console.log(isStudent);
+console.log(car);
+console.log(address);
